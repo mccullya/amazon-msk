@@ -9,3 +9,6 @@ _site/
 .bundle/
 vendor/
 .idea/
+node_modules/
+package-lock.json
+package.json
