@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OSO Amazon MSK
 layout: home
 ---
 
